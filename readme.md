@@ -26,7 +26,7 @@ Request Body: {
     "username":"admin",
     "email":"admin@gmail.com",
     "password":"admin",
-    "is_staff": true   #setting user a admin
+    "is_staff": true   #setting user as an admin
 }
 ```
 
